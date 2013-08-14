@@ -7,7 +7,7 @@ https://bitbucket.org/tyleregeto/gogofileserver/overview
 This is a static file server written in Go.
 
 ### Features include:
-* Cookie-less serever
+* Cookie-less server
 * Gzips text based responses (if client has support)
 * Caches file transformations (eg: file gzip's)
 * Fast
